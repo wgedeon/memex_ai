@@ -49,5 +49,5 @@ Please inspect .ai_context.md to understand our workflow and project goals. Ackn
 * Coding Agent: Tactical Execution	(scope: Working Code)
 
 --- 
-LinkedIn Article: ()[http://xxx]
+LinkedIn Article: [How to turn a one-night stand into a lasting relationship (with AI agents)](https://www.linkedin.com/posts/wgedeon_i-was-ready-to-write-off-ide-ai-agents-as-activity-7417890517704712192-nmo4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAMO5UBvlhgkf2CHjsIHLUjR2_uygr7gkI)
 
