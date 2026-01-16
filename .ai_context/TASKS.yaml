@@ -1,0 +1,16 @@
+# Task Backlog
+tasks:
+  - id: 001
+    title: "Project Initialization"
+    description: "Initialize repository and verify .ai_context files."
+    status: "done"
+    depends_on: []
+    context_files: [".ai_context.md", ".ai_context/PROJECT_BRIEF.md"]
+  
+  - id: 002
+    title: "Enrich Project Brief"
+    description: "Interact with user to add more details to the project brief."
+    status: "pending"
+    depends_on: [001]
+    context_files: []
+
